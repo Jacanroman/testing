@@ -20,6 +20,7 @@ jobs:
             cd /var/www/ahierro.es
             mkdir testing
             git clone https://github.com/Jacanroman/testing.git
+            cp /var/www/ahierro.es/testing/index.html /var/www/ahierro.es
             echo 'Deployment successful to digital ocean' 
 
 # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
