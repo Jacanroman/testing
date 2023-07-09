@@ -22,9 +22,6 @@ jobs:
             git clone https://github.com/Jacanroman/testing.git
             echo 'Deployment successful to digital ocean' 
 
-
-
-
 # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
 #- uses: actions/checkout@v3
 
