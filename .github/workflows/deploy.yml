@@ -23,10 +23,6 @@ jobs:
             echo 'Deployment successful to digital ocean' 
 
 
-
-
-
-
 # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
 #- uses: actions/checkout@v3
 
